@@ -1,0 +1,15 @@
+{
+  "name": "storelens",
+  "owner": {
+    "name": "Storelens",
+    "email": "hello@storelensapp.com"
+  },
+  "description": "Ecommerce competitor research by Storelens: store spy reports, theme and app detector, price tracking and store leads.",
+  "plugins": [
+    {
+      "name": "storelens",
+      "source": "./",
+      "description": "Ecommerce competitor research: store spy reports, theme and app detector, competitor product and price tracking, best sellers and store leads."
+    }
+  ]
+}

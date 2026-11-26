@@ -1,0 +1,26 @@
+{
+  "name": "storelens",
+  "version": "1.0.0",
+  "description": "Ecommerce competitor research with Storelens: store spy reports with catalogs, launches and best sellers, a theme detector and app detector for any store, live ads, competitor product tracking and price tracking with daily alerts, and store leads with owner contacts.",
+  "author": {
+    "name": "Storelens",
+    "url": "https://storelensapp.com"
+  },
+  "homepage": "https://storelensapp.com/developers/",
+  "repository": "https://github.com/storelensapp/plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "storelens",
+    "ecommerce",
+    "competitor-research",
+    "store-spy",
+    "theme-detector",
+    "app-detector",
+    "price-tracking",
+    "shopify",
+    "lead-generation"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://storelensapp.com/privacy/"
+}

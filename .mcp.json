@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "storelens": {
+      "type": "http",
+      "url": "https://storelensapp.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "storelens",
+  "version": "1.0.0",
+  "description": "Ecommerce competitor research: store spy reports, theme and app detector, competitor product and price tracking, best sellers and store leads.",
+  "author": {
+    "name": "Storelens",
+    "url": "https://storelensapp.com"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Ecommerce competitor research by Storelens",
+    "shortDescription": "Store spy and theme detector",
+    "longDescription": "Ecommerce competitor research for any online store: store spy reports, a theme detector and app detector, competitor product tracking, price tracking, best sellers and store leads. Detect any store's Shopify theme, apps and tech stack, open store spy reports with catalog, prices, launches and best sellers, see the Meta ads a store runs, track competitors for daily price and launch alerts, and search an index of live Shopify stores by theme, app, country and niche, with owner contacts. detect_store, search_leads, get_lead_filters, list_tracked_stores and get_alerts use no allowance; get_store_report, get_store_ads and reveal_store_contacts use the plan's monthly allowance, exactly as in the dashboard.",
+    "developerName": "Storelens",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "What Shopify theme and apps does allbirds.com use, and what did it launch this month?"
+  }
+}
